@@ -555,7 +555,10 @@ body {
     color: #fff;
 }
 #center-page20>h1{
-    margin-bottom: 1.7vw;
+    margin-bottom: 1vw;
+}
+#center-page20 p{
+    font-size: .9vw;
 }
 #page21{
     position: relative;
@@ -599,6 +602,9 @@ body {
     margin-top: 10%;
     margin-bottom: 1%;
 }
+#center-page21 p{
+    font-size: .9vw;
+}
 #page22{
     position: relative;
     height: 100vh;
@@ -623,6 +629,7 @@ body {
     margin-top: 10%;
     margin-bottom: 1%;
 }
+
 #page22>#snroff{
     top: 50%;
     left: 50%;
