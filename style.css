@@ -763,7 +763,7 @@ body {
     #page25 .right25{
         flex-wrap: wrap;
         flex-basis: 100%;
-        /* flex-direction: column; */
+        
     }
 }
 
@@ -775,6 +775,7 @@ body {
 	align-items: center;
 	padding: 30px 8%;
 }
+
 .container .row{
 	display: flex;
 	justify-content: space-between;
