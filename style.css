@@ -972,6 +972,7 @@ textarea::-webkit-scrollbar-thumb{
 	box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.3);
 	transition: 0.4s;
 }
+
 .inputGroup button:hover{
 	background-color: #2e2e2e;
 	color: dodgerblue;
