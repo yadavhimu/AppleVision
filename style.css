@@ -983,6 +983,7 @@ textarea::-webkit-scrollbar-thumb{
 		flex-basis: 100%;
 	}
 }
+
 @media(max-width: 900px){
 	.container .row{
 		flex-wrap: wrap;
