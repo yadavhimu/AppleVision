@@ -996,4 +996,58 @@ textarea::-webkit-scrollbar-thumb{
 	}
 }
 
+/* +++++++++++Media Quaries++++++++ */
+@media(max-width:600px){
+    #page>video{
+        height: 100%;
+        width: 100%;
+    }
+    #page1>h1{
+        font-size: 5.5vw;
+        font-weight: 600;
 
+    }
+    #page2>h1{
+        font-size: 5.5vw;
+        font-weight: 600;
+    }
+    #page3{
+        height: 70vh;
+    }
+    #page3>img{
+        width: 90%;
+    }
+    #page3-upper{
+        height: 35%;
+        width: 100%;
+        top: 8%;
+    }
+    #page3-upper>img{
+        position: absolute;
+        top: 5%;
+        left: 50%;
+    }
+    #page3-upper-inner{
+        height: 80%;
+        width: 100%
+    }
+    #page3-upper-inner>h3{
+        font-weight: 500;
+        font-size:4.3vw;
+        width: 100%;
+    }
+    
+    #page3>button{
+        position: absolute;
+        bottom: 7%;
+        left: 50%;
+        transform: translateX(-50%);
+        padding: 15px 30px;
+        border: 1px solid #000;
+        font-weight: 500;
+        background-color: #fff;
+        border-radius: 50px;
+        font-size: 4.4vw;
+    }
+    
+}
